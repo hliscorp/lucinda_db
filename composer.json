@@ -1,5 +1,5 @@
 {
-    "name": "lucinda/db",
+    "name": "hlis/db",
     "type": "library",
     "description": "Lucinda DB: Pure PHP Tag-Based Key-Value Store",
     "keywords": ["nosql","database","key-value store"],
