@@ -1,5 +1,5 @@
 {
-    "name": "hlis/db",
+    "name": "lucinda/db",
     "type": "library",
     "description": "Lucinda DB: Pure PHP Tag-Based Key-Value Store",
     "keywords": [
@@ -15,7 +15,7 @@
         "ext-xml": "*"
     },
     "require-dev": {
-        "hlis/unit-testing": "^1.0"
+        "lucinda/unit-testing": "^1.0"
     },
     "autoload": {
         "psr-4": {
